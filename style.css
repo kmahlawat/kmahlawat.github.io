@@ -1,0 +1,13 @@
+body, html{
+    margin: 0;
+    padding: 10px;
+}
+.skill-heading{
+    background-color:lavender;
+    padding: 5px;
+}
+.skills{
+    background-color:lavenderblush;
+    padding: 5px;
+
+}
